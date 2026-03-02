@@ -21,4 +21,5 @@ plt.xlabel("t (time step)")
 plt.ylabel("x(t) (true state)")
 plt.title("True System State: x(t+1) = x(t) + 1")
 plt.grid(True)
+
 plt.show()
