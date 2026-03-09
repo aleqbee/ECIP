@@ -1,6 +1,10 @@
 # Logistic population growth simulation with plot
 # Equation: x(n+1) = r * x(n) * (1 - x(n))
 
+# Task1
+# Make a simulation by using the logistic regression expression (= population growth). 
+# Use a growth factor r = 0.9. Make a raport (word doc) that describes the fate of the population for r = 0.9.
+
 import matplotlib.pyplot as plt
 
 r = 0.9
